@@ -35,3 +35,8 @@ padding-right: 15px;
         margin: 0%;
     }
 }
+.button:hover{
+    box-shadow: 0 0 10px #00f7ff,
+                0 0 20px #b3ff00,
+                0 0 40px #ff00ee;
+}
