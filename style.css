@@ -34,6 +34,20 @@ padding-right: 15px;
         flex-direction: column;
         margin: 0%;
     }
+    .col-1{
+background-color: rgb(253, 107, 2);
+padding: 50px;
+
+}
+.col-2{
+    background-color:rgb(14, 18, 229);
+padding: 50px;}
+
+.col-3{
+    background-color: rgb(15, 214, 15);
+    padding: 50px;
+
+}
 }
 .button:hover{
     box-shadow: 0 0 10px #00f7ff,
