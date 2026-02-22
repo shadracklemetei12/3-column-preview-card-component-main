@@ -36,16 +36,16 @@ padding-right: 15px;
     }
     .col-1{
 background-color: rgb(253, 107, 2);
-padding: 50px;
+padding: 100px;
 
 }
 .col-2{
     background-color:rgb(14, 18, 229);
-padding: 50px;}
+padding: 100px;}
 
 .col-3{
     background-color: rgb(15, 214, 15);
-    padding: 50px;
+    padding: 100px;
 
 }
 }
