@@ -30,9 +30,13 @@ padding-right: 15px;
 }
 @media (max-width: 600px) {
     .container{
-        display: flex;
         flex-direction: column;
         margin: 0%;
+        display: flex;
+        justify-content: center;   /* Horizontal */
+        align-items: center;       /* Vertical */
+        height: 100vh;
+        padding: 20px;
     }
     .col-1{
 background-color: rgb(253, 107, 2);
